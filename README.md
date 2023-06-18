@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miloshIra
 - 👀 I’m interested in codding and engineering in general 
-- 🌱 I’m currently learning python and robot kinematics
+- 🌱 I’m currently coding python.
 - 📫 Reach me at maritonski@gmail.com
 
 <!---
